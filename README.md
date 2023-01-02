@@ -1,7 +1,7 @@
 ## 👋 Hola, soy Sergio Sierra
 Soy un enamorado del ecosistema de Javascript 💛
 
-Me dedico a desarrollar en el Backend y IoT usando la nube ☁️
+Me dedico a desarrollar en el Backend y IoT usando la nube ☁️  
 Soy tecnólogo en electrónica e Ingeniero de telecomunicaciones y certificado AZ-900 en la nube de Microsoft.
 
 ## Tecnologías:
@@ -22,12 +22,11 @@ Además:
 
 ## Encuéntrame en:
 
-[- Twitter](https://twitter.com/sergio_sierrap)
-
-[- LinkedIn](https://www.linkedin.com/in/sergio-sierrap/)
+- [Twitter](https://twitter.com/sergio_sierrap)
+- [LinkedIn](https://www.linkedin.com/in/sergio-sierrap/)
 
 ## Puedes apoyarme en:
-- [- :coffee: Buy Me a Coffee](https://www.buymeacoffee.com/sergiosierrap)
+- [:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/sergiosierrap)
 
 
 
