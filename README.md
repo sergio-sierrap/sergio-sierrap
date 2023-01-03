@@ -1,5 +1,5 @@
 ## 👋 Hola, soy Sergio Sierra
-Soy un enamorado del ecosistema de Javascript 💛
+Un enamorado del ecosistema de Javascript 💛
 
 Me dedico a desarrollar en el Backend y IoT usando la nube ☁️  
 Soy tecnólogo en electrónica e Ingeniero de telecomunicaciones y certificado AZ-900 en la nube de Microsoft.
