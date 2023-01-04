@@ -8,8 +8,6 @@ Enfocado en Javascript 💛
 - ExpressJS
 - MongoDB
 - Azure (AZ-900 :white_check_mark:)
-
-## IoT:
 - Arduino
 - LabVIEW
 
