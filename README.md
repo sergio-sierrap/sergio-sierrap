@@ -11,7 +11,7 @@ Enfocado en Javascript 💛
 - Arduino
 - LabVIEW
 
-## Además soy:  
+## Con títulos como:  
 - Ingeniero de Telecomunicaciones 🎓  
 - Tecnólogo en Electrónica  
 - Certificado **AZ-900** en la nube de Microsoft ☁️💻  
