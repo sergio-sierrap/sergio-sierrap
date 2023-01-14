@@ -1,6 +1,6 @@
 # 👋 Hola, soy Sergio Sierra  
-Me dedico a desarrollar en el Backend y IoT usando la nube ☁️  
-Enfocado en Javascript 💛  
+Soy un apasionado de la tecnología 💛💻  
+Me dedico a desarrollar en el Backend y IoT usando la nube ☁️    
 
 ## Tecnologías:
 - Javascript 💛
@@ -28,17 +28,6 @@ Enfocado en Javascript 💛
 
 ## Puedes apoyarme en:
 - [:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/sergiosierrap)
-
-
-
-
-
-
-
-
-
-
-
 <!---
 sergio-sierrap/sergio-sierrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
