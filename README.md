@@ -11,11 +11,11 @@ Me dedico a desarrollar en el Backend y IoT usando la nube ☁️
 - Arduino
 - LabVIEW
 
-## Con títulos como:  
+## Con Títulos & Certificaciones como:  
 - Ingeniero de Telecomunicaciones 🎓  
-- Tecnólogo en Electrónica  
-- Certificado **AZ-900** en la nube de Microsoft ☁️💻  
-- Bilingüe en inglés B2 📢 (cert.)
+- Tecnólogo en Electrónica 🤖  
+- Certificado Microsoft **Azure** Fundamentals **(AZ-900)** ☁️💻  
+- Bilingüe en Inglés B2 📢 (cert.)  
 
 ## Aprendiendo:
 - Angular
@@ -25,6 +25,7 @@ Me dedico a desarrollar en el Backend y IoT usando la nube ☁️
 ## Encuéntrame en:  
 - [Twitter](https://twitter.com/sergio_sierrap)
 - [LinkedIn](https://www.linkedin.com/in/sergio-sierrap/)  
+- [Linktree](https://linktr.ee/sergio_sierrap) 🔗
 
 ## Puedes apoyarme en:
 - [:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/sergiosierrap)
