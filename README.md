@@ -3,6 +3,7 @@ Soy un apasionado de la tecnología 💛💻
 Me dedico a desarrollar en el Backend y IoT usando la nube ☁️    
 
 ## Tecnologías:
+- Typescript
 - Javascript 💛
 - NodeJS
 - ExpressJS
@@ -14,7 +15,7 @@ Me dedico a desarrollar en el Backend y IoT usando la nube ☁️
 ## Con Títulos & Certificaciones como:  
 - Ingeniero de Telecomunicaciones 🎓  
 - Tecnólogo en Electrónica 🤖  
-- Certificado Microsoft **Azure** Fundamentals **(AZ-900)** ☁️💻  
+- **AZ-900**: Microsoft Azure Fundamentals  ☁️💻  
 - Bilingüe en Inglés B2 📢 (cert.)  
 
 ## Aprendiendo:
