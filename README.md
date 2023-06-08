@@ -1,27 +1,29 @@
 # 👋 Hola, soy Sergio Sierra  
-Soy un apasionado de la tecnología 💛💻  
-Me dedico a desarrollar en el Backend y IoT usando la nube ☁️    
+Ingeniero en telecomunicaciones y desarrollador Web  
+En mi camino como desarrollador he podido trabajar con:
 
-## Tecnologías:
-- Typescript
+## Lenguajes:
 - Javascript 💛
-- NodeJS
-- ExpressJS
-- MongoDB
-- Azure (AZ-900 :white_check_mark:)
-- Arduino
-- LabVIEW
+- Typescript
+- C#
+
+## Tecnologías & Frameworks:
+- NodeJS, ExpressJS
+- .NET 6, ASP.NET Core
+- MongoDB, SQL Server
+- Azure, Firebase, MongoDB Atlas
+- Arduino, LabVIEW & Proteus
 
 ## Con Títulos & Certificaciones como:  
 - Ingeniero de Telecomunicaciones 🎓  
 - Tecnólogo en Electrónica 🤖  
-- **AZ-900**: Microsoft Azure Fundamentals  ☁️💻  
-- Bilingüe en Inglés B2 📢 (cert.)  
+- **AZ-900**: Microsoft Azure Fundamentals  ☁️💻
 
-## Aprendiendo:
+## Idiomas: 
+- Inglés: Certificado en Inglés B2 📢
+
+### Aprendiendo:
 - Angular
-- React
-- MySQL
 
 ## Encuéntrame en:  
 - [Twitter](https://twitter.com/sergio_sierrap)
@@ -30,14 +32,3 @@ Me dedico a desarrollar en el Backend y IoT usando la nube ☁️
 
 ## Puedes apoyarme en:
 - [:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/sergiosierrap)
-<!---
-sergio-sierrap/sergio-sierrap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-- 👋 Hi, I’m @sergio-sierrap
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
---->
