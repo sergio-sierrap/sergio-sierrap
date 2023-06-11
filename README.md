@@ -4,8 +4,8 @@ En mi camino como desarrollador he podido trabajar con:
 
 ## Lenguajes:
 - Javascript 💛
-- Typescript
-- C#
+- Typescript 💙
+- C# 💜
 
 ## Tecnologías & Frameworks:
 - NodeJS, ExpressJS
@@ -14,16 +14,20 @@ En mi camino como desarrollador he podido trabajar con:
 - Azure, Firebase, MongoDB Atlas
 - Arduino, LabVIEW & Proteus
 
-## Con Títulos & Certificaciones como:  
+## Con Títulos  
 - Ingeniero de Telecomunicaciones 🎓  
+- Especialización tecnológica en gestión y manejo de bases de datos 
 - Tecnólogo en Electrónica 🤖  
+
+## Certificaciones
 - **AZ-900**: Microsoft Azure Fundamentals  ☁️💻
 
 ## Idiomas: 
-- Inglés: Certificado en Inglés B2 📢
+- Inglés: Inglés B2 [(certificado 📢)](https://api2.englishscore.com/verify/da5caed4) 
 
 ### Aprendiendo:
-- Angular
+- Angular  
+- Flutter
 
 ## Encuéntrame en:  
 - [Twitter](https://twitter.com/sergio_sierrap)
