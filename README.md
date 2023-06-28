@@ -8,11 +8,17 @@ En mi camino como desarrollador he podido trabajar con:
 - C# 💜
 
 ## Tecnologías & Frameworks:
-- NodeJS, ExpressJS
+- Angular, Astro
+- NodeJS, Nestjs
 - .NET 6, ASP.NET Core
-- MongoDB, SQL Server
-- Azure, Firebase, MongoDB Atlas
-- Arduino, LabVIEW & Proteus
+
+## Tecnologías:  
+- Bases de datos NoSQL: MongoDB
+- Bases de datos SQL: SQL Server
+- Cloud: Azure, Firebase, MongoDB Atlas
+- IoT: Arduino, LabVIEW & Proteus
+- Docker
+- Git
 
 ## Con Títulos  
 - Ingeniero de Telecomunicaciones 🎓  
@@ -26,7 +32,6 @@ En mi camino como desarrollador he podido trabajar con:
 - Inglés: Inglés B2 [(certificado 📢)](https://api2.englishscore.com/verify/da5caed4) 
 
 ### Aprendiendo:
-- Angular  
 - Flutter
 
 ## Encuéntrame en:  
