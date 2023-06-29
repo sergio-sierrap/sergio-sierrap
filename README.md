@@ -7,7 +7,7 @@ En mi camino como desarrollador he podido trabajar con:
 - Typescript 💙
 - C# 💜
 
-## Tecnologías & Frameworks:
+## Frameworks:
 - Angular, Astro
 - NodeJS, Nestjs
 - .NET 6, ASP.NET Core
